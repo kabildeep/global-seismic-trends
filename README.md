@@ -10,7 +10,7 @@ The project uses earthquake data collected from the USGS Earthquake Hazards Prog
 
 The main objectives of this project are:
 
-- Collect global earthquake data from the USGS API
+-Collect global earthquake data from the USGS API
 - Clean and prepare the earthquake dataset
 - Extract useful information such as country, year, month, and day
 - Store the cleaned data in MySQL
